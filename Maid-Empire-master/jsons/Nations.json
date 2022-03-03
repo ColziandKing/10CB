@@ -17,8 +17,8 @@
 		"uniqueName": "Maid Policies",
 		"uniques": ["[+1 Production, +1 Culture] from every specialist", "[+1 Happiness] [in all cities]",
 			"[+1 Happiness, +1 Culture] from every [Castle]", "+[15]% combat bonus for units fighting in [Friendly Land]"],
-		"cities": ["Maidlyopolis", "Cordelia", "Maria", "Mariel", "Yuri Alpha", "Belfast", "Sakuya", "Angelina", "Dragon Maid",
+		"cities": ["Maidlyopolis", "Edonara", "Marianna", "Mariel", "Yuri Alpha", "Belfast", "Sakuya", "Angelina", "Dragon Maid",
 			"Hammann", "Farin K. Ehrlichkeit", "Noel K. Ehrlichkeit", "Aqua", "Kaoru", "Wilhelmina Carmel", "Lizlet L. Chelsie", "Mahoro", "Hazuki",
-			"Arianna", "Rem", "Ram"]
+			"Arianna", "Rem-Ram", "Cordelia"]
 	},
 ]
