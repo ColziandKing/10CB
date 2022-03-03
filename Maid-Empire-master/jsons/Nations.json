@@ -1,14 +1,14 @@
 [
 	{
 		"name": "Maid Empire",
-		"leaderName": "Maria",
+		"leaderName": "Maria Campbell",
 		"adjective": ["The United Maid"],
 		"startIntroPart1": "Hail Empire! All hail for the maid! It's time to make the world look back, it's time to control the world! Maid is not lowly job, we will build new order for the world. It time to rise all sisters!",
-		"startIntroPart2": "The Empire is led by Maria, represent for all the maid. With assistance from all maid and their old master, the Empire hopes to bring respect to Maid, and set the new rule for the world. Can they the reach it and become the winners?",
+		"startIntroPart2": "The Empire is led by Maria Campbell, represent for all the maid. With assistance from all maid and their old master, the Empire hopes to bring respect to Maid, and set the new rule for the world. Can they the reach it and become the winners?",
 		"declaringWar": "For the Empire, we will defeat you.",
 		"attacked": "U fu fu fu fu....., so you chose the war.",
 		"defeated": "So, we lost, but us will never fail.",
-		"introduction": "Hi, I am Maria, the Maid.",
+		"introduction": "Hi, I am Maria Campbell, the Maiden.",
 		"neutralHello": "Welcome.",
 		"hateHello": "You again? I don't want to see you now.",
 		"tradeRequest": "I have something want to trade with you.",
