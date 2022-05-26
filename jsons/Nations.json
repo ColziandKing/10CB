@@ -35,14 +35,6 @@
 			    "Receive a free [Great General] when you discover [Horseback Riding]","Great General provides double combat bonus", 
 			    "Receive triple Gold from Barbarian encampments and pillaging Cities", "[Great General] is earned [50]% faster",
 			    "\"Borrows\" city names from other civilizations in the game","[+30]% Strength for cities <when attacking>"],
-          
-         ,       
-         ,       
-          ,    
-         ,       
-         "+[25]% strength for [Wounded] units","[+1 Happiness, +1 Culture] from every [Barracks]","[+1 Food] from every [Plantation]",
-			   "[-20]% Culture cost of adopting new Policies","[+2 Culture] from every [Camps]","Starts with [Rifling]","[+2 Science] from every [Snow]",
-			   "[+2 Science] from every [Ice]","[+1 Science] from every [Coast]"]
 	},
 	{
 		"name": "Salumi",
@@ -155,7 +147,7 @@
 			    "Gain a free [Harbor] [in all coastal cities]","Land units may cross [Mountain] tiles after the first [Great General] is earned",
 			  "Units ignore terrain costs when moving into any tile with Mountain","[-80]% Culture cost of adopting new Policies",
 			    "[+3 Gold, +1 Culture] from every [Land Trade Route (Food)]","[+1 Gold] from every [Land Trade Route (Production)]",
-			"[+1 Gold] from every [Land Trade Route (Gold)]","[+1 Gold] from every [Sea Trade Route (Food)]","[-40]% Culture cost of adopting new Policies",
+			"[+1 Gold] from every [Land Trade Route (Gold)]","[+1 Gold] from every [Sea Trade Route (Food)]",
 			"[+1 Gold] from every [Sea Trade Route (Production)]","[+1 Gold] from every [Sea Trade Route (Gold)]",
 			   "Receive a free [Great Merchant] when you discover [Currency]","[+2 Gold] from every [Mountain]",
 			   "Enables embarkation for land units <starting from the [Ancient era]>", "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>", "Normal vision when embarked <for [All] units>", "[+10]% Strength <within [2] tiles of a [Moai]>",
@@ -164,7 +156,10 @@
 			   "[+2 Gold] from every [Ocean]","[+1] Movement <for [Embarked] units>", "[1] Movement point cost to disembark <for [All] units>",
 			"No movement cost to pillage <for [Melee] units>",
 			   "+[50]% Production when constructing [Walls] buildings [in all cities]","Units pay only 1 movement point to embark and disembark",
-			   "[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>","[-25]% Culture cost of natural border growth [in all cities]"],
+			   "[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>","[-25]% Culture cost of natural border growth [in all cities]",
+			    "+[25]% strength for [Wounded] units","[+1 Happiness, +1 Culture] from every [Barracks]","[+1 Food] from every [Plantation]",
+			   "[+2 Culture] from every [Camps]","[+2 Science] from every [Snow]",
+			   "[+2 Science] from every [Ice]","[+1 Science] from every [Coast]"],
 
 		"cities": ["Buenlyssia","Gabina","Nicono","Pathrica","Diwayville","Jambini","Cassia","Lanita Yella"]
 	},
@@ -208,8 +203,7 @@
 			   "[+2 Science] in capital", "[+1 Science] in all cities","[+1 Culture] from every [Pasture]","[+1 Food] from every [Pasture]",
 			   "[+10]% Production when constructing [Military] units [in all cities]","[+1 Gold] from every [Horses]","[+1 Production] from every [Horses]",
 			   "[+1 Gold] from every [Iron]","[+1 Production] from every [Iron]","[Military] units gain the [Blitz] promotion",
-			   "[Military] units gain the [Besiege] promotion","+[50]% Production when constructing [Military] units [in all cities]",
-			   ],
+			   "[Military] units gain the [Besiege] promotion","+[50]% Production when constructing [Military] units [in all cities]"],
 
 		"cities": ["Reigna","Thraymond","Proviencia","Liencia","Sheenran"]
 	}
