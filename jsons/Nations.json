@@ -34,7 +34,7 @@
 			    "New [Military] units start with [50] Experience","[+30]% Strength <vs [Barbarian] units>",
 			    "Receive a free [Great General] when you discover [Horseback Riding]","Great General provides double combat bonus", 
 			    "Receive triple Gold from Barbarian encampments and pillaging Cities", "[Great General] is earned [50]% faster",
-			    "\"Borrows\" city names from other civilizations in the game","[+30]% Strength for cities <when attacking>"]
+			    "\"Borrows\" city names from other civilizations in the game","[+30]% Strength for cities <when attacking>"],
 	},
 	{
 		"name": "Salumi",
