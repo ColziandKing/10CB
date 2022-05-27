@@ -228,5 +228,145 @@
         "uniques": ["[+5]% [Production] [in this city]",
             "[+25]% [Gold] [in this city]","Requires a [Market] [in this city]"],
         "requiredTech": "Banking"
-    }
+    },
+	//Ancient
+    {
+		"name": "Ziggurat",
+		"replaces": "Temple",
+		"uniqueTo": "Salumi", 
+		"maintenance": 3,
+		"faith": 1,
+		"science": 1,
+		"specialistSlots": {"Scientist": 1},
+		"cost":120,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Faith] from [River] tiles [in this city]","1 Scientist slot"],
+		"requiredBuilding": "Shrine",
+		"requiredTech": "Construction"
+	},
+	{
+		"name": "Synagogue",
+		"replaces": "Temple",
+		"uniqueTo": "Colziand", 
+		"faith": 2,
+		"happiness": 1,
+		"gold": 2,
+		"cost": 100,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Shrine"
+		"requiredTech": "Theology"
+	},
+	{
+		"name": "Sphinx Gate",
+		"replaces": "Courthouse",
+		"uniqueTo": "Salveo", 
+		"cityStrength": 2,
+		"cityHealth": 25,
+		"cost": 120,
+		"maintenance": 4,
+		"culture": 1,
+		"hurryCostModifier": 50,
+		"uniques": ["Remove extra unhappiness from annexed cities","New [Military] units start with [10] Experience [in this city]"],
+		"requiredTech": "Construction"
+	},
+	{
+		"name": "Khachkar",
+		"replaces": "Shrine",
+		"uniqueTo": "Suzainswellia", 
+		"faith": 1,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"uniques": ["[+2 Faith] from [Mountain] tiles [in this city]"]
+	},
+		{
+		"name": "Slave Market",
+		"replaces": "Market",
+		"uniqueTo": "Fullysia",
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"gold": 4,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["Free [Worker] appears"],
+		"requiredTech": "Currency"
+	},
+	    {
+		"name": "Smeltery",
+        "replaces": "Forge",
+		"uniqueTo": "Salveo",
+        "maintenance": 1,
+		"production": 1,
+        "hurryCostModifier": 25,
+        "requiredTech": "Iron Working",
+        "uniques": ["Provides [2] [Iron]","[+15]% Production when constructing [Spaceship part] units [in this city]",
+			"[+15]% Production when constructing [Land] units [in this city]",
+			"[+1 Production] from [Iron] tiles [in this city]"]
+    },
+	//Medieval//
+{
+		"name": "Var",
+		"replaces": "Castle",
+		"uniqueTo": "Colziand", 
+		"cityStrength": 9,
+		"cityHealth": 50,
+		"hurryCostModifier": 25,
+       	"cost": 160,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Civil Service"
+	},
+	{
+		"name": "Vihara",
+		"replaces": "Temple",
+		"uniqueTo": "Fullysia", 
+		"maintenance": 2,
+		"faith": 2,
+		"culture": 1,
+		"hurryCostModifier": 25,
+       		"cost": 100,
+		"uniques": ["[+1 Faith] from [Jungle] tiles in this city"],
+		"requiredTech": "Philosophy"
+	},
+	{
+		"name": "Prasat",
+		"replaces": "Castle",
+		"uniqueTo": "Salumi",
+		"faith": 2,
+		"maintenance": 1,
+		"specialistSlots": {"Artist": 1, "Engineer": 1},
+       		"cost": 200,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Theology"
+	},
+{
+		"name": "Water Puppet Theatre",
+		"replaces": "Opera House",
+		"uniqueTo": "Suzainswellia", 
+		"culture": 3,
+		"happiness": 1,
+		"specialistSlots": {"Artist": 1},
+		"hurryCostModifier": 10,
+		"requiredBuilding": "Temple",
+		"maintenance": 2,
+		"uniques": ["[+2 Culture] from [Lakes] tiles in this city"]
+		"requiredTech": "Acoustics"
+	},
+
+		{
+		"name": "Stave Church",
+		"replaces": "Temple",
+		"uniqueTo": "Norway",
+		"faith": 2,
+		"cost": 50,
+		"requiredTech": "Philosophy",
+	},
+		{
+		"name": "Kumbum",
+		"replaces": "Temple",
+		"uniqueTo": "Tibet", 
+		"hurryCostModifier": 25,
+       	"cost": 100,
+		"faith": 1,
+		"uniques": ["[+1 Faith] from [Hill] tiles in this city"],
+		"requiredTech": "Philosophy"
+	}
 ]
