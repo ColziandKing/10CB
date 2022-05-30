@@ -305,7 +305,7 @@
 {
 		"name": "Var",
 		"replaces": "Castle",
-		"uniqueTo": "Colziand", 
+		"uniqueTo": "Azibhania", 
 		"cityStrength": 9,
 		"cityHealth": 50,
 		"hurryCostModifier": 25,
@@ -328,7 +328,7 @@
 	{
 		"name": "Prasat",
 		"replaces": "Castle",
-		"uniqueTo": "Salumi",
+		"uniqueTo": "Umiratie Emirate",
 		"faith": 2,
 		"maintenance": 1,
 		"specialistSlots": {"Artist": 1, "Engineer": 1},
@@ -340,7 +340,7 @@
 {
 		"name": "Water Puppet Theatre",
 		"replaces": "Opera House",
-		"uniqueTo": "Suzainswellia", 
+		"uniqueTo": "Eisnia Archipelago", 
 		"culture": 3,
 		"happiness": 1,
 		"specialistSlots": {"Artist": 1},
@@ -354,7 +354,7 @@
 		{
 		"name": "Stave Church",
 		"replaces": "Temple",
-		"uniqueTo": "Norway",
+		"uniqueTo": "Chediluen",
 		"faith": 2,
 		"cost": 50,
 		"requiredTech": "Philosophy",
@@ -362,7 +362,7 @@
 		{
 		"name": "Kumbum",
 		"replaces": "Temple",
-		"uniqueTo": "Tibet", 
+		"uniqueTo": "Ziandestria", 
 		"hurryCostModifier": 25,
        	"cost": 100,
 		"faith": 1,
