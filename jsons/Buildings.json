@@ -186,7 +186,7 @@
 	   {
         "name": "Ducal Stable", 
         "replaces": "Stable",
-        "uniqueTo": "Colziand,
+        "uniqueTo": "Colziand",
         "cost": 75,
         "maintenance": 0,
         "requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
