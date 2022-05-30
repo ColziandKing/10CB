@@ -233,7 +233,7 @@
     {
 		"name": "Ziggurat",
 		"replaces": "Temple",
-		"uniqueTo": "Salumi", 
+		"uniqueTo": "Umiratie Emirate", 
 		"maintenance": 3,
 		"faith": 1,
 		"science": 1,
@@ -247,7 +247,7 @@
 	{
 		"name": "Synagogue",
 		"replaces": "Temple",
-		"uniqueTo": "Colziand", 
+		"uniqueTo": "Eisnia Archipelago", 
 		"faith": 2,
 		"happiness": 1,
 		"gold": 2,
@@ -259,7 +259,7 @@
 	{
 		"name": "Sphinx Gate",
 		"replaces": "Courthouse",
-		"uniqueTo": "Salveo", 
+		"uniqueTo": "Chediluen", 
 		"cityStrength": 2,
 		"cityHealth": 25,
 		"cost": 120,
@@ -272,7 +272,7 @@
 	{
 		"name": "Khachkar",
 		"replaces": "Shrine",
-		"uniqueTo": "Suzainswellia", 
+		"uniqueTo": "Eisnia Archipelago", 
 		"faith": 1,
 		"cost": 40,
 		"hurryCostModifier": 40,
@@ -281,7 +281,7 @@
 		{
 		"name": "Slave Market",
 		"replaces": "Market",
-		"uniqueTo": "Fullysia",
+		"uniqueTo": "Umiratie Emirate",
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
 		"gold": 4,
@@ -292,7 +292,7 @@
 	    {
 		"name": "Smeltery",
         "replaces": "Forge",
-		"uniqueTo": "Salveo",
+		"uniqueTo": "Azibhania",
         "maintenance": 1,
 		"production": 1,
         "hurryCostModifier": 25,
